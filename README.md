@@ -1,4 +1,4 @@
-## Olá, eu sou Ary de Souza!, um engenheiro de software em produção!
+## Hello, im Ary de Souza!, a Software Engineering in production!
 
 - 💻 Atualmente trabalho com back-end.
 - 🌱 Neste semestre da faculdade estou focado em projetos que envolvem C e Arduino!
