@@ -1,6 +1,6 @@
 ## Hello, im Ary de Souza!, a Software Engineering in production!
 
-- 💻 Atualmente trabalho com back-end.
+- 💻 Atualmente tenho preferência de trabalho com back-end.
 - 🌱 Neste semestre da faculdade estou focado em projetos que envolvem C e Arduino!
 - 📚 Conhecimentos sobre python, HTML5 e CSS3.
 
