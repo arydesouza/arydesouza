@@ -1,8 +1,8 @@
 ## Hello, im Ary de Souza!, a Software Engineering in production!
 
 - 💻 Atualmente tenho preferência de trabalho com back-end.
-- 🌱 Neste semestre da faculdade estou focado em projetos que envolvem C e Arduino!
-- 📚 Conhecimentos sobre python, HTML5 e CSS3.
+- 🌱 Neste semestre da faculdade estou focado em projetos que envolvem HTML, CSS e JS.
+- 📚 Conhecimentos sobre python, HTML5, CSS3, C, Git e JS.
 
 <div align="center">
   <a href="https://github.com/arizinho1">
