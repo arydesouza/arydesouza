@@ -5,9 +5,9 @@
 - 📚 Conhecimentos sobre python, HTML5, CSS3, C, Git e JS.
 
 <div align="center">
-  <a href="https://github.com/arizinho1">
-  <img height="120" src="https://github-readme-stats.vercel.app/api?username=arizinho1&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="135" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arizinho1&layout=compact&langs_count=7&theme=highcontrast"/>
+  <a href="https://github.com/arydesouza">
+  <img height="120" src="https://github-readme-stats.vercel.app/api?username=arydesouza&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="135" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arydesouza&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
   
@@ -22,6 +22,6 @@
   
 ## Connect with me!
   
-   <a href="https://www.linkedin.com/in/ary-de-souza-484782209//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/ary-de-souza//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/ar1ammm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://discord.com/users/expertt#5596" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
