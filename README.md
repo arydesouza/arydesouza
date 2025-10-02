@@ -1,8 +1,12 @@
-## Hello, im Ary de Souza!, a Software Engineering in production!
+## Seja bem vindo, eu sou Ary de Souza!
 
-- 💻 Atualmente tenho preferência de trabalho com front-end.
-- 🌱 Neste semestre da faculdade estou focado em projetos que envolvem HTML, CSS e JS.
-- 📚 Conhecimentos sobre python, HTML5, CSS3, C, Git e JS.
+Desenvolvedor Frontend • Desenvolvedor Web • Desenvolvedor Mobile
+
+💻 Sobre mim
+🎓 Atualmente sou formado em Análise e Desenvolvimento de Sistemas e estou finalizando Engenharia de Software.
+🎯 Foco em Front-end, com ênfase em experiência do usuário, performance e escalabilidade.
+⚛️ Atualmente atuando em projetos com React e Next.js, aplicando boas práticas, código limpo e atenção aos detalhes.
+💡 Defensor de um Front-end moderno, acessível e seguro — unindo design, usabilidade e eficiência técnica.
 
 <div align="center">
   <a href="https://github.com/arydesouza">
