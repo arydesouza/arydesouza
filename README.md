@@ -2,7 +2,7 @@
 👋 Seja bem vindo, eu sou Ary de Souza!<br>
 <p/> </h1>
 
-<h3><p align="center">Desenvolvedor Frontend • Desenvolvedor Web • Desenvolvedor Mobile
+<h3><p align="center">Desenvolvedor Frontend • Desenvolvedor FullStack • Desenvolvedor Web • Desenvolvedor Mobile
 <p/></h3>
   
 ## 💻 Sobre mim<br>
